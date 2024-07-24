@@ -13,7 +13,6 @@ This is a JavaScript-based Sudoku Solver application that allows users to input 
 * Click the "Solve Puzzle" button.
 
 ## Screenshot
-Here we have project screenshot :
 ![screenshot](screenshot.jpg)
 
 ## License
